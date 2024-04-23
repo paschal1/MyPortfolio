@@ -1,0 +1,84 @@
+{
+    "skills": [
+        {
+            "id":"1",
+            "src":"./img/product-chain-1.png",
+            "title": "Front-end",
+            "description":"Experienced front-end developer skilled in crafting engaging user interfaces and seamless user experiences. Proficient in HTML, CSS, Javascript, and responsive design principles, with a passion for creating visually stunning websites and web applications."
+
+        },
+        {
+            "id":"2",
+            "src":"./img/tag-1.png",
+            "title": "Back-end",
+            "description":"Seasoned back-end developer proficient in building robust server-side applications and APIs. Expertise in programming languages such as Python Java, and Node.js, coupled with a deep understanding of databases and server management. Committed to delivering efficient and scalable solutions to meet the needs of modern web development."
+
+        },
+        {
+            "id":"3",
+            "src":"./img/feather-pen-2.png",
+            "title": "Webflow Development",
+            "description":"web flow developer proficient in leveraging cutting-edge technologies to create fluid and interactive web experiences."
+
+        },
+        {
+            "id":"4",
+            "src":"./img/feather-pen-1.png",
+            "title": "Data Analyst/Scientist",
+            "description":"Skilled data scientits skilled in extracting actionable insights from complex datasets. Proficient in machine learning algorithms, statisrical analysis, and data visualization techniques, with a track record of solving real world problems."
+
+        }
+
+
+    ],
+    "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+     "testimonial": [
+        {
+            "id":"1",
+            "count":"5",
+            "src":"./img/avatar-image.png",
+            "description":"Experienced front-end developer skilled in crafting engaging user interfaces and seamless user experiences. Proficient in HTML, CSS, Javascript, and responsive design principles, with a passion for creating visually stunning websites and web applications.",
+            "author_name": "Paschal Front-end",
+            "author_designation":"london"
+        },
+        {
+            "id":"2",
+           "count":"5",
+            "src":"./img/avatar-image-1.png",
+            "description":"Experienced front-end developer skilled in crafting engaging user interfaces and seamless user experiences. Proficient in HTML, CSS, Javascript, and responsive design principles, with a passion for creating visually stunning websites and web applications.",
+            "author_name": "Paschal",
+            "author_designation":"london"
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src":"./img/avatar-image-2.png",
+            "description":"Experienced front-end developer skilled in crafting engaging user interfaces and seamless user experiences. Proficient in HTML, CSS, Javascript, and responsive design principles, with a passion for creating visually stunning websites and web applications.",
+            "author_name": "Front-end",
+            "author_designation":"Africa"
+        }
+    ]
+
+}
